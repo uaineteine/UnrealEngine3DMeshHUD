@@ -9,3 +9,5 @@ http://imgur.com/0A2VnhS
 
 With Capture
 http://imgur.com/JT2E48h
+
+Note, this is not my work but an upload of an example project I intend to develop further
